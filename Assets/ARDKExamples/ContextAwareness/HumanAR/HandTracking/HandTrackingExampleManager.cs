@@ -27,7 +27,7 @@ namespace Niantic.ARDKExamples
     private GUIStyle _fontStyle;
 
     private const int LineThickness = 10;
-    private static readonly Color LineColor = Color.red;
+    private static readonly Color LineColor = Color.green;
     private const int TextSize = 50;
     private static readonly Color TextColor = Color.white;
 
@@ -94,7 +94,7 @@ namespace Niantic.ARDKExamples
           GUI.Label
           (
             new Rect(rect.x + 20, rect.y + 20, rect.width, rect.height),
-            "Score: " + score + "%",
+            "Hand confidence: " + score + "%",
             _fontStyle
           );
         }

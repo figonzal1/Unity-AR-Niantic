@@ -62,7 +62,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: productName
-    value: Unity-AR-Niantic
+    value: ARNianticTesting
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: defaultCursor
