@@ -62,7 +62,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: productName
-    value: ARNianticTesting
+    value: ARHandTracking
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: defaultCursor
@@ -654,7 +654,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: applicationIdentifier.Array.data[0].second
-    value: com.RyC.UnityARNiantic
+    value: com.RyC.ARHandTracking
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: buildNumber.Array.size
@@ -686,7 +686,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: overrideDefaultApplicationIdentifier
-    value: 1
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidBundleVersionCode
