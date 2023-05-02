@@ -1,7 +1,7 @@
 # Apply override to all files in the directory
-Assets/ARDK/* linguist-vendored
-Assets/ARDKExamples/* linguist-vendored
-Assets/ARDKMockEnvironments/* linguist-vendored
-Assets/LightshipHUB/* linguist-vendored
-Assets/LightshipHUBMockEnviroments/* linguist-vendored
-Assets/MockMeshes/* linguist-vendored
+Assets/ARDK/** linguist-vendored
+Assets/ARDKExamples/** linguist-vendored
+Assets/ARDKMockEnvironments/** linguist-vendored
+Assets/LightshipHUB/** linguist-vendored
+Assets/LightshipHUBMockEnviroments/** linguist-vendored
+Assets/MockMeshes/** linguist-vendored
